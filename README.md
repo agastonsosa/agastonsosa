@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Pyhton, flask, SQLAlchemy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/agastonsosa?tab=repositories](https://github.com/agastonsosa?tab=repositories)
-
-- 💬 Ask me about **React**
+- 👨‍💻 All of my projects are available [HERE](https://github.com/agastonsosa?tab=repositories)
 
 - 📫 How to reach me **agastonsosa@gmail.com**
 
