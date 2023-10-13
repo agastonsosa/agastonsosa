@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **agastonsosa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaston-sosa-458658269/](https://www.linkedin.com/in/gaston-sosa-458658269/)
-
 - ⚡ Fun fact **Cincinnati Bengals fan! WHO DEY!**
 
 <h3 align="left">Connect with me:</h3>
