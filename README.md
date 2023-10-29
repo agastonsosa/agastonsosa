@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agastonsosa&label=Profile%20views&color=0e75b6&style=flat" alt="agastonsosa" /> </p>
 
-- 🔭 I’m currently working on [JWT Auth System with Python, Flask and REACT!](https://github.com/4GeeksAcademy/agastonsosa_23_Auth-System-Python-Flask-React)
+- 🔭 I’m currently working on [DDL Web App Project](https://github.com/users/agastonsosa/projects/2)
 
 - 🌱 I’m currently learning **Pyhton, flask, SQLAlchemy**
 
