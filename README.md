@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Madeleine Project](https://github.com/agastonsosa/Project-Madeleine)
 
-- 🌱 I’m currently learning **Pyhton, flask, SQLAlchemy**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/agastonsosa?tab=repositories)
 
