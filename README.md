@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agastonsosa&label=Profile%20views&color=0e75b6&style=flat" alt="agastonsosa" /> </p>
 
-- 🔭 I’m currently working on [Madeleine Project](https://github.com/agastonsosa/Project-Madeleine)
+- 🔭 I’m currently working on [Madeleine Project](https://github.com/agastonsosa/Project-Madeleine), and also as a Mentor at 4Geeks Academy!
 
 - 🌱 I’m currently learning **Python**
 
