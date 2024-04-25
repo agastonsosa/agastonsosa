@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Mytheresa](https://www.mytheresa.com), and also as a Mentor at 4Geeks Academy!
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **GTM & Snowplow**
 
 - 👨‍💻 All of my projects are available [HERE](https://github.com/agastonsosa?tab=repositories)
 
